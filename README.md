@@ -32,3 +32,4 @@ El presente proyecto pretende servir como una demostracion de los conocimientos 
 7. ¿Existe una relación? ¿Cómo podrías analizar con que variable tiene mñas corelación el porcentaje de analfabetismo en personas mayores de 15 años?
 8. Desarrolla un nuevo DataFrame con indicadores interesantes por estado que se obtengan de los datos a nivel municipal y que pudieran ser de importancia a la hora de definir políticas públicas. Se va a calificar la originalidad de los indicadores. Justifica las decisiones que tomes, y guarda el nuevo dataframe en formato parquet.
 
+IMPORTANTE: Para las graficas se utilizo plotly, y se descargaron dos archivos diferentes de bases de datos: <a href='https://www.gob.mx/conapo/documentos/indice-de-intensidad-migratoria-mexico-estados-unidos'>Indice intensidad migratoria</a> <a href='https://www.inegi.org.mx/app/descarga/?t=154&ag=00'>Incidencia delictiva</a>
